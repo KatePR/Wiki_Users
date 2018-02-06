@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<api>
+  <continue rvcontinue="20160627105836|727203358" continue="||" />
+  <query>
+    <normalized>
+      <n from="cheesecake" to="Cheesecake" />
+    </normalized>
+    <pages>
+      <page _idx="533482" pageid="533482" ns="0" title="Cheesecake">
+        <revisions>
+          <rev user="BD2412" timestamp="2016-09-10T02:27:50Z" comment="/* North America */Per consensus in discussion at [[Talk:New York#Proposed action to resolve incorrect incoming links]], replaced: [[New York]] → [[New York City]] using [[Project:AWB|AWB]]" />
+          <rev user="VMS Mosaic" timestamp="2016-07-15T07:28:25Z" comment="consistent spelling per [[WP:ENGVAR]] within article" />
+          <rev user="Gehyra Australis" timestamp="2016-07-02T12:08:50Z" comment="removed contradict tag" />
+          <rev user="Spsinghs" timestamp="2016-06-27T11:00:06Z" comment="/* National varieties */" />
+        </revisions>
+      </page>
+    </pages>
+  </query>
+</api>

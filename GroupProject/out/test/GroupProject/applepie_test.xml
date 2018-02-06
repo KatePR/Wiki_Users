@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<api>
+    <continue rvcontinue="20160627105836|727203358" continue="||" />
+    <query>
+        <normalized>
+            <n from="apple pie" to="Apple Pie" />
+        </normalized>
+        <pages>
+            <page _idx="533482" pageid="533482" ns="0" title="Apple+Pie">
+            </page>
+        </pages>
+    </query>
+</api>
